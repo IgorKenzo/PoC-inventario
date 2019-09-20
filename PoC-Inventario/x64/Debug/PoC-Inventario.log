@@ -1,0 +1,7 @@
+﻿  main.c
+D:\Senac\2Sem\PI2\PoC-inventario\PoC-Inventario\main.c(142,17): warning C4013:  'IsInside' undefined; assuming extern returning int
+D:\Senac\2Sem\PI2\PoC-inventario\PoC-Inventario\main.c(144,38): warning C4013:  'MapearDistancia' undefined; assuming extern returning int
+D:\Senac\2Sem\PI2\PoC-inventario\PoC-Inventario\main.c(162,25): warning C4013:  'VerificarBordas' undefined; assuming extern returning int
+D:\Senac\2Sem\PI2\PoC-inventario\PoC-Inventario\main.c(167,36): warning C4013:  'IsInsideImagem' undefined; assuming extern returning int
+D:\Senac\2Sem\PI2\PoC-inventario\PoC-Inventario\main.c(25,9): warning C4101:  'invetario': unreferenced local variable
+  PoC-Inventario.vcxproj -> D:\Senac\2Sem\PI2\PoC-inventario\x64\Debug\PoC-Inventario.exe
